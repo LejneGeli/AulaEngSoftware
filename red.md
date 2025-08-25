@@ -1,0 +1,2 @@
+Pra mim, qual a importância do GitHub?
+Pra mim, o GitHub é como uma vitrine. É o lugar onde eu guardo e organizo meus projetos, mas também onde mostro o que sei fazer. Ali dá pra ver minha evolução, comparar como eu programava antes e como programo agora. Além disso, outras pessoas podem conhecer meu trabalho, colaborar e até me dar feedback. E ele é importante por isso (pelo menos, na minha visão).
